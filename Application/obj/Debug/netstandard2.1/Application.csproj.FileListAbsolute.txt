@@ -1,0 +1,13 @@
+C:\dev\fblike\Reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\dev\fblike\Reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+C:\dev\fblike\Reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\dev\fblike\Reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\dev\fblike\Reactivities\Application\bin\Debug\netstandard2.1\Persistance.dll
+C:\dev\fblike\Reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\dev\fblike\Reactivities\Application\bin\Debug\netstandard2.1\Persistance.pdb
+C:\dev\fblike\Reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\dev\fblike\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\dev\fblike\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\dev\fblike\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\dev\fblike\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+C:\dev\fblike\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
